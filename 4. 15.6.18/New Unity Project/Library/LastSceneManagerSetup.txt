@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SCENE/Escena_Cueto.unity
+- path: Assets/SCENE/Forest.unity
   isLoaded: 1
   isActive: 1
